@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/codeman-react/static/css/main.bd5d2f0f.chunk.css",
+    "main.js": "/codeman-react/static/js/main.207844ee.chunk.js",
+    "main.js.map": "/codeman-react/static/js/main.207844ee.chunk.js.map",
+    "runtime-main.js": "/codeman-react/static/js/runtime-main.d4497992.js",
+    "runtime-main.js.map": "/codeman-react/static/js/runtime-main.d4497992.js.map",
+    "static/css/2.081f420c.chunk.css": "/codeman-react/static/css/2.081f420c.chunk.css",
+    "static/js/2.d2e9d863.chunk.js": "/codeman-react/static/js/2.d2e9d863.chunk.js",
+    "static/js/2.d2e9d863.chunk.js.map": "/codeman-react/static/js/2.d2e9d863.chunk.js.map",
+    "index.html": "/codeman-react/index.html",
+    "static/css/2.081f420c.chunk.css.map": "/codeman-react/static/css/2.081f420c.chunk.css.map",
+    "static/css/main.bd5d2f0f.chunk.css.map": "/codeman-react/static/css/main.bd5d2f0f.chunk.css.map",
+    "static/js/2.d2e9d863.chunk.js.LICENSE.txt": "/codeman-react/static/js/2.d2e9d863.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/codeman-react/static/media/Averta-SemiBold.2ecbb48c.woff2",
+    "static/media/boltIcon.890e0647.svg": "/codeman-react/static/media/boltIcon.890e0647.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4497992.js",
+    "static/css/2.081f420c.chunk.css",
+    "static/js/2.d2e9d863.chunk.js",
+    "static/css/main.bd5d2f0f.chunk.css",
+    "static/js/main.207844ee.chunk.js"
+  ]
+}
